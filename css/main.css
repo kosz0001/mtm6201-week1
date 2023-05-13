@@ -10,9 +10,11 @@ img {
 
 h1 {
     color: peachpuff;
+    background-color: palevioletred;
 }
 
 p {
+    background-color: pink;
     color: azure;
     text-align: justify;
     margin-top: 5%;
@@ -22,6 +24,7 @@ p {
 
 dl {
     margin-top: 3%;
+    background-color: palevioletred;
 }
 
 dt {
@@ -30,3 +33,6 @@ dt {
     color: peachpuff;
 }
 
+dd {
+    color: paleturquoise;
+}
