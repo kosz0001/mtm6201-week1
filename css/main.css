@@ -6,7 +6,7 @@ body {
 img {
     max-width: 150px;
     float: left;
-    padding: 0 20px 20px 0;
+    padding: 0 20px 5px 0;
 }
 
 h1 {
@@ -15,8 +15,7 @@ h1 {
 }
 
 p {
-    background-color: pink;
-    color: azure;
+    color: aliceblue;
     text-align: justify;
     margin-top: 5%;
     margin-left: 15%;
