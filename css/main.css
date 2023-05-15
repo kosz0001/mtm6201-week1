@@ -3,6 +3,11 @@ body {
     background-color: plum;
 }
 
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
 img {
     max-width: 150px;
     float: left;
